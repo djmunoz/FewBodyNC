@@ -1,6 +1,6 @@
 #include "solver.h"
 #include "integrator.h"
-#include "io.h"
+#include "io/io.h"
 #include "globals.h"
 #include <iostream>
 
